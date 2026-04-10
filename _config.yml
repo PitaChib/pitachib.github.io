@@ -28,8 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : "phd student in evolutionary biology, focus on mammals."
   location         : "Chicago, IL"
-  employer         : "University of Illinois Chicago & Field Museum of Natural History "
-  uri              : # URL
+  employer         : "University of Illinois Chicago <br> & Field Museum of Natural History "
+  uri              : "https://bios.uic.edu/profiles/zhang-jiale/" # URL
   email            : "jzhang@fieldmuseum.org" 
 
   # Academic websites
@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  ebird            : "https://ebird.org/profile/MjgyNDYzNw/world" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
