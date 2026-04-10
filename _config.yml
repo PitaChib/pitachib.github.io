@@ -23,7 +23,7 @@ repository               : "pitachib/pitachib.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.JPG"
   name             : "Jiale Jess Zhang"
   pronouns         : "she/her"  
   bio              : "phd student in evolutionary biology, focus on mammals."
