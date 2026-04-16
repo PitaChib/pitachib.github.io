@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jiale 'Jess' Zhang"
 title_separator          : "-"
 name                     : &name "Jiale Jess Zhang"
@@ -23,8 +23,8 @@ repository               : "pitachib/pitachib.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "shrewsmall.jpg"
-  avatar           : "squareLinkedIn.png"
+  avatar           : "shrewsmall.jpg"
+  # avatar           : "squareLinkedIn.png"
   name             : "Jiale Jess Zhang"
   pronouns         : "she/her"  
   bio              : "phd student in evolutionary biology, focus on mammals."
