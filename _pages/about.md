@@ -17,8 +17,35 @@ I'm currently affiliated with Field Museum of Natural History and University of 
 
 <img src = "/images/xiamen.jpg" width="500px" style="display:block; margin:auto;">
 
+## Affiliations
 
+**Current**
 
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; margin-bottom: 30px;">
+  <a href="https://www.fieldmuseum.org" target="_blank">
+    <img src="/images/fmnh.png" style="height: 60px; width: auto;">
+  </a>
+  <a href="https://bios.uic.edu/" target="_blank">
+    <img src="/images/uic.avif" style="height: 60px; width: auto;">
+  </a>
+</div>
+
+**Past**
+
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <a href="https://twin-cities.umn.edu" target="_blank">
+    <img src="/images/UMN_M.png" style="height: 60px; width: auto;">
+  </a>
+  <a href="https://cfans.umn.edu" target="_blank">
+    <img src="/images/umnCFANS.png" style="height: 60px; width: auto;">
+  </a>
+  <a href="https://cbs.umn.edu/eeb" target="_blank">
+    <img src="/images/umn_EEB.png" style="height: 60px; width: auto;">
+  </a>
+  <a href="https://www.bellmuseum.umn.edu/" target="_blank">
+    <img src="/images/bellmuseum.png" style="height: 60px; width: auto;">
+  </a>
+</div>
 
 
 
