@@ -24,7 +24,7 @@ frameborder="0" allowfullscreen>
 
 ## 🎤 Outreach
 📍 2026 *Chemistry in Nature*: Evolution of the Mammalian Vagina (500+ audience)
-            - Jiale Zhang & Dr. Amanda Grunwald
+            - Jiale Zhang & [Dr. Amanda Grunwald](https://www.amandagrunwald.com/)
 <!-- <img src="/images/UROP.jpg" width = "40%"> -->
 
 📍 2026 *Members Night*
