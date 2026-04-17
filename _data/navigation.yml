@@ -17,11 +17,11 @@ main:
   - title: "Research"
     url: /research/    
     
-  - title: "Fieldwork"
-    url: /fieldwork/
+  # - title: "Fieldwork"
+  #   url: /fieldwork/
         
-  - title: "Other Resources"
-    url: /other-resources/
+  # - title: "Other Resources"
+  #   url: /other-resources/
     
   - title: "CV"
     url: /cv-json/

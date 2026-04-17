@@ -51,7 +51,11 @@
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [{
+    "name": "Programming Languages",
+    "level": "",
+    "keywords": ["R"]
+  }],
   "languages": [
     {
       "language": "English",
