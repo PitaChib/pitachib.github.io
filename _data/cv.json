@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jiale 'Jess' Zhang",
+    "email": "jzhang@fieldmuseum.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://pitachib.github.io/",
+    "summary": "Graduate student in evolutionary biology studying mammalian response to environmental changes.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "950 S Halsted St Room 4269",
+      "postalCode": "60607",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
@@ -25,128 +25,72 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "PitaChib",
+        "url": "https://github.com/PitaChib"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Illinois Chicago",
+      "area": "Ph.D. in Ecology and Evolution, Biological Sciences",
+      "studyType": "phd",
+      "startDate": "Fall 2025",
+      "endDate": "present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Minnesota Twin Cities",
+      "area": "B.S. in Fisheries, Wildlife and Conservation Biology",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "2025",
+      "gpa": 3.89,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent in speaking, reading, and writing"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Country Mice and City Mice: High-resolution µCT Scans Reveals City Mice are, In Fact, Brainier",
+      "event": "University of Minnesota Undergraduate Research Symposium",
+      "date": "2025-04-21",
+      "location": "Minneapolis, MN, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Genetics Laboratory",
+      "institution": "University of Illinois Chicago, Department of Biological Sciences",
+      "date": "Fall 2025",
+      "role": "Undergraduate Course Primary Instructor",
+      "description": "24 undergruaduate junior/senior students enrolled. Course includes lectures and labs covering basic molecular biology techniques, including DNA extraction, PCR, gel electrophoresis, Sanger sequencing, and CRISPR technology. Students also learn how to analyze and interpret genetic data."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Genetics Laboratory",
+      "institution": "University of Illinois Chicago, Department of Biological Sciences",
+      "date": "Spring 2026",
+      "role": "Undergraduate Course Primary Instructor",
+      "description": "24 undergruaduate junior/senior students enrolled. Course includes lectures and labs covering basic molecular biology techniques, including DNA extraction, PCR, gel electrophoresis, Sanger sequencing, and CRISPR technology. Students also learn how to analyze and interpret genetic data."
     }
   ],
   "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
   ]
 }

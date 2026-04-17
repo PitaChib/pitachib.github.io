@@ -23,8 +23,8 @@ main:
   - title: "Other Resources"
     url: /other-resources/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
