@@ -13,8 +13,6 @@ My broader interest lies in how mammalian communities response to novel environm
 
 I am also super passionate about natural history museum collections, thus utilizing historical collections has always been a big part of my research journey. 
 
-I'm currently affiliated with Field Museum of Natural History and University of Illinois Chicago. 
-
 <img src = "/images/xiamen.jpg" width="500px" style="display:block; margin:auto;">
 
 ## Affiliations
