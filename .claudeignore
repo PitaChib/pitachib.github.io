@@ -1,0 +1,48 @@
+# Claude/Codex context hygiene
+# Claude Code reads .claudeignore. Codex does not currently have a stable .codexignore;
+# keep the same exclusions in AGENTS.md guidance and prefer rg/find patterns that respect .gitignore.
+
+# dependencies / build output
+node_modules/
+.venv/
+venv/
+dist/
+build/
+out/
+.next/
+.expo/
+.test-build/
+_site/
+.jekyll-cache/
+
+# caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.gradle/
+DerivedData/
+.swiftpm/
+.build/
+ios/Pods/
+ios/build/
+android/build/
+android/.gradle/
+
+# generated runtime artifacts
+outputs/
+gallery/
+artifacts/
+logs/
+state/
+coverage/
+
+# secrets
+*.pem
+.env
+.env.*
+!.env.example
+
+# Jekyll
+.sass-cache/
+.bundle/
+vendor/
