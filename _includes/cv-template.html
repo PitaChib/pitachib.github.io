@@ -30,9 +30,10 @@
       </div>
       {% endif %}
       
-      {% if cv.basics.phone %}
+      {% assign phone = cv.basics.phone | strip %}
+      {% if phone != "" %}
       <div class="cv-contact-item">
-        <i class="fas fa-phone"></i> {{ cv.basics.phone }}
+        <i class="fas fa-phone"></i> {{ phone }}
       </div>
       {% endif %}
       

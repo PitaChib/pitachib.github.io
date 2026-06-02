@@ -15,8 +15,11 @@ main:
   - title: "Research"
     url: /research/    
     
-  # - title: "Fieldwork"
-  #   url: /fieldwork/
+  - title: "Fieldwork"
+    url: /fieldwork/
+
+  - title: "Outreach"
+    url: /outreach/
         
   # - title: "Other Resources"
   #   url: /other-resources/
@@ -28,4 +31,4 @@ main:
   #   url: /markdown/
 
   - title: "Other"
-    url: /non-research-stuff//  
+    url: /non-research-stuff/
